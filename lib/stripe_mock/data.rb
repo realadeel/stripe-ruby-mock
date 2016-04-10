@@ -503,7 +503,7 @@ module StripeMock
           :funding => 'credit',
           :exp_month => 9,
           :exp_year => 2017,
-          :fingerprint => 'JRRLXGh38NiYygM7',
+          #:fingerprint => 'JRRLXGh38NiYygM7',
           :customer => nil,
           :country => 'US',
           :name => nil,
